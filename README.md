@@ -1,0 +1,2 @@
+# dicey
+Dice roll simulator
